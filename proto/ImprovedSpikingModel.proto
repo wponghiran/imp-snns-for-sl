@@ -1,0 +1,8 @@
+[proto]
+hidden_size=int
+dropout=float(0,1)
+num_layers=int
+use_bn=bool
+n_bits=int
+do_edat=bool
+output_size=int
